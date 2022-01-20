@@ -1,0 +1,17 @@
+{
+  "name": "satfolio",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "stats": "^1.0.0",
+    "three": "^0.136.0"
+  }
+}
